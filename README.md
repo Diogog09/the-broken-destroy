@@ -6,4 +6,4 @@ Dev: Diogo Gonçalves Mello
 Email:diogo.goncalves.mello@gmail.com
 RA:1120447
 
-Neste projeto eu usei a biblioteca do prejeto do starwarsloved(um pouco odificada) e um pouco do materialUI também.
+Neste projeto eu usei a mesma biblioteca do prejeto do starwarsloved porem um pouco modificada, e um pouco do materialUI também.
